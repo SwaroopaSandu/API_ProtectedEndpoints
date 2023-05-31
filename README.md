@@ -9,7 +9,7 @@ API_ProtectedEndpoints is an Elixir project that demonstrates how to create prot
 
 ## Installation
 
-1. Clone the repository:
+  Clone the repository:
    ```shell
    git clone https://github.com/SwaroopaSandu/API_ProtectedEndpoints.git
    
