@@ -69,6 +69,5 @@ Here's an example of how to create protected endpoints using Guardian and Plug:
    end
    ```
 
-   ```
 
 By following these steps, you can create protected endpoints in your Elixir application using Guardian and Plug. The Guardian pipeline verifies the authentication token and ensures that only authenticated requests can access the protected endpoints. You can customize the behavior of the pipeline, handle authentication errors, and define additional middleware or routes as required.
