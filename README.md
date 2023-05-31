@@ -1,3 +1,8 @@
 # API_ProtectedEndpoints
-INSTALL DEPENDENCIES
+
+
+
+#### INSTALL DEPENDENCIES
+```
 mix deps.get
+```
